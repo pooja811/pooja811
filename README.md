@@ -12,9 +12,12 @@ I'm **Pooja**, a Java Backend Developer with 3.5+ years of experience building *
 ## 🚀 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=for-the-badge&logo=springboot)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=for-the-badge&logo=apachekafka)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws)
@@ -24,19 +27,13 @@ I'm **Pooja**, a Java Backend Developer with 3.5+ years of experience building *
 
 ## 📊 GitHub Stats
 
-![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooja811&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pooja811&layout=compact&theme=radical)
 
 ---
 
 ## 📈 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
-
----
-
-## 📺 Let's Connect
-
-- [LinkedIn](https://linkedin.com/in/pooja811)
+![](https://komarev.com/ghpvc/?username=pooja811&color=brightgreen)
 
 ---
