@@ -23,8 +23,8 @@ I'm **Pooja**, a Java Backend Developer with 3.5+ years of experience building *
 
 ## 📊 GitHub Stats
 
-![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooja811&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pooja811&layout=compact&theme=radical)
+![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooja811&show_icons=true&theme=radical&rank_icon=github&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pooja811&layout=compact&theme=radical&hide_border=true&&langs_count=10&show_icons=true)
 
 ---
 
