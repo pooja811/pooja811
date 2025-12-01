@@ -2,7 +2,7 @@
 
 I'm **Pooja**, a Java Backend Developer with 3.5+ years of experience building **microservices-based applications** using **Spring Boot, JPA, Hibernate, Kafka**, and working on large-scale enterprise projects.
 
-- 🔭 Checkout my GitHub repositories on Full Stack Project, System Design, Low Level Designs.
+- 🔭 Checkout my GitHub repositories on Full Stack Project, System Design, Low Level Designs and Leetcode.
 - 🌱 Learning **Docker, Kubernetes, AWS**, and DevOps best practices.
 - 💡 Interested in **System Design**, **Performance Optimization**, and **Distributed Systems**.
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/pooja811) | [Email](mailto:morepooja811@gmail.com)
