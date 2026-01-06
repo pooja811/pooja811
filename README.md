@@ -1,6 +1,6 @@
 # Hi there 👋, Welcome to my GitHub page!
 
-I'm **Pooja**, a Java Backend Developer with 3.5+ years of experience building **microservices-based applications** using **Spring Boot, JPA, Hibernate, Kafka**, and working on large-scale enterprise projects.
+I'm **Pooja**, a Java Backend Developer with 4+ years of experience building **microservices-based applications** using **Spring Boot, JPA, Hibernate, Kafka**, and working on large-scale enterprise projects.
 
 - 🔭 Checkout my GitHub repositories on Full Stack Project, System Design, Low Level Designs and Leetcode.
 - 🌱 Learning **Docker, Kubernetes, AWS**, and DevOps best practices.
@@ -25,14 +25,7 @@ I'm **Pooja**, a Java Backend Developer with 3.5+ years of experience building *
 
 ## 📊 GitHub Stats
 
-![Pooja's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooja811&show_icons=true&theme=radical&rank_icon=github&locale=en&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=pooja811&layout=compact&theme=radical&include_all_commits=true&count_private=true&langs_count=20)
-
-
----
-
-## 📈 Profile Views
-
-![](https://komarev.com/ghpvc/?username=pooja811&color=brightgreen)
+![Pooja's GitHub stats](https://github-statspro.vercel.app/api/stats/pooja811?theme=radical&show_icons=true&rank_icon=github&count_private=true)
+![Top Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pooja811&theme=radical)
 
 ---
